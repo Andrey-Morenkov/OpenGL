@@ -1,0 +1,15 @@
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenGL.exe.config
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.dll
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Hryasch\Documents\GitHub\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.Form1.resources
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.exe
+C:\Users\Hryasch\Documents\GitHub\OpenGL\obj\Debug\OpenGL.pdb
